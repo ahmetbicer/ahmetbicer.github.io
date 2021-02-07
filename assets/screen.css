@@ -345,6 +345,7 @@ h6 {
     padding: 3vw 4vw;
     font-size: 1.6rem;
     line-height: 1.3em;
+    text-align: center;
     background: inherit
 }
 
@@ -1134,7 +1135,8 @@ form[data-members-form].error .message-error, form[data-members-form].success .m
 }
 
 .gh-page {
-    padding: 0 4vw
+    padding: 0 4vw;
+    margin: auto;
 }
 
 .gh-article, .gh-postfeed {
@@ -1321,5 +1323,3 @@ form[data-members-form].error .message-error, form[data-members-form].success .m
         font-size: 1.6rem
     }
 }
-
-/*# sourceMappingURL=screen.css.map */
