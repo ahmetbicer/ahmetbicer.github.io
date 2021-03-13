@@ -1281,13 +1281,13 @@ form[data-members-form].error .message-error, form[data-members-form].success .m
 }
 
 .gh-author-image {
-    height: 12vmin;
-    width: 12vmin;
+    height: 20vmin;
+    width: 20vmin;
     margin: 0 auto 1.5em;
     border-radius: 100%;
     overflow: hidden;
-    -o-object-fit: cover;
-    object-fit: cover
+    -o-object-fit: contain;
+    object-fit: contain;
 }
 
 .gh-author-meta {
