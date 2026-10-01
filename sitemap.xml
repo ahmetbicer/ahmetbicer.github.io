@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ahmetb.dev/</loc></url>
   <url><loc>https://ahmetb.dev/frame-by-frame/</loc></url>
+  <url><loc>https://ahmetb.dev/frame-by-frame/ja/</loc></url>
+  <url><loc>https://ahmetb.dev/frame-by-frame/it/</loc></url>
+  <url><loc>https://ahmetb.dev/frame-by-frame/pt-br/</loc></url>
+  <url><loc>https://ahmetb.dev/frame-by-frame/fr/</loc></url>
   <url><loc>https://ahmetb.dev/frame-by-frame/guides/photo-from-video/</loc></url>
   <url><loc>https://ahmetb.dev/frame-by-frame/ja/guides/photo-from-video/</loc></url>
   <url><loc>https://ahmetb.dev/frame-by-frame/it/guides/photo-from-video/</loc></url>
